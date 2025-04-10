@@ -1,4 +1,4 @@
-﻿namespace CQRS.Core
+﻿namespace Post.Common
 {
     public class Class1
     {

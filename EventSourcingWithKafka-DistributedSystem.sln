@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Post.Query.Domain", "SM-Pos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Post.Query.Infrastructure", "SM-Post\Post.Query\Post.Query.Infrastructure\Post.Query.Infrastructure.csproj", "{987B5CBC-5F04-47B0-A581-D620A5BF916A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Post.Common", "SM-Post\Post.Common\Post.Common\Post.Common.csproj", "{060EC978-0059-4CC1-ADEE-6106203EDF3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -64,6 +66,10 @@ Global
 		{987B5CBC-5F04-47B0-A581-D620A5BF916A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{987B5CBC-5F04-47B0-A581-D620A5BF916A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{987B5CBC-5F04-47B0-A581-D620A5BF916A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{060EC978-0059-4CC1-ADEE-6106203EDF3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060EC978-0059-4CC1-ADEE-6106203EDF3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060EC978-0059-4CC1-ADEE-6106203EDF3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060EC978-0059-4CC1-ADEE-6106203EDF3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -78,6 +84,7 @@ Global
 		{357DBF43-4436-423C-B783-5A69F84B7AA2} = {151979EB-05AC-426A-95C3-440FB55D23B0}
 		{776A8DB0-0CAF-4A45-972C-2DF252FE7D64} = {151979EB-05AC-426A-95C3-440FB55D23B0}
 		{987B5CBC-5F04-47B0-A581-D620A5BF916A} = {151979EB-05AC-426A-95C3-440FB55D23B0}
+		{060EC978-0059-4CC1-ADEE-6106203EDF3F} = {B8D39B13-F6B8-42BD-8B3B-080A1448A7AC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {78BEEA0B-2489-4BE9-917F-9D3E9F416A8E}
